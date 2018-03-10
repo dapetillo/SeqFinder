@@ -13,7 +13,7 @@ class CorrCoeff {
 
 		std::pair <std::vector<double>, std::vector <double>> ranking (std::vector <int> x, std::vector <int> y);
 		double corrcoeff (std::vector <double> xvalues, std::vector <double> yvalues);
-		double ffifc (std::vector <int> xvalues, std::vector <int> yvalues);
+		//double ffifc (std::vector <int> xvalues, std::vector <int> yvalues);
 };
 
 #endif
