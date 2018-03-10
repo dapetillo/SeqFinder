@@ -136,7 +136,7 @@ double CorrCoeff::corrcoeff (std::vector <double> xvalues, std::vector <double> 
 	return cc;
 }
 
-
+/*
 double CorrCoeff::ffifc (std::vector <int> xvalues, std::vector <int> yvalues){
 
 	double ff;
@@ -151,3 +151,4 @@ double CorrCoeff::ffifc (std::vector <int> xvalues, std::vector <int> yvalues){
 
 	return ff;
 }
+*/
